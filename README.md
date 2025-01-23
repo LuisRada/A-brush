@@ -1,4 +1,7 @@
 # A-brush
+
+Simulation at: https://youtu.be/wuuxO71caIQ
+
 The A-Brush features a design similar to a 3D printer, leveraging a sophisticated
 system of sliders, distance sensors, and rotating brushes. The device is placed on
 top of the aquarium and securely attaches to the walls by its extendable side bars.
